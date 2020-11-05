@@ -1,14 +1,14 @@
 # Read Firebase Database for MicroPython in ESP8266
-=======================================================
+
 
 In this project Iam working on reading data in firebase RealTimeDataBase for MicroPython
 __________________________________________________________________________________________
 
- *** Special thanks for [Andeson Jesus](https://www.youtube.com/watch?v=-HLYym6vHzU) youtube channel ***
+ Special thanks for [Andeson Jesus](https://www.youtube.com/watch?v=-HLYym6vHzU) youtube channel
 
- Based on
+ **Based on**
 
- * https://github.com/nynonet/esp32/blob/master/main.py and 
+ * https://github.com/nynonet/esp32/blob/master/main.py
  * https://github.com/vishal-android-freak/firebase-micropython-esp32/blob/master/startup.py
 
  ______________________________________________________________________________________________
@@ -21,7 +21,7 @@ ________________________________________________________________________________
 * After that just run the main.py file.
 * type the SSID and password of your wifi network.
 
-___If you facing any problems you can restart it or post me___
+__If you facing any problems you can restart it or post me__
 
-___Iam also uploaded 2 images that will clear your doubts....___
 
+>Iam also uploaded 2 images that will clear your doubts....
