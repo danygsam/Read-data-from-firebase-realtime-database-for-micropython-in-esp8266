@@ -13,8 +13,9 @@ ________________________________________________________________________________
 
  ______________________________________________________________________________________________
 
+![GitHub followers](https://img.shields.io/github/followers/danygsam?color=000000&style=for-the-badge)  ![GitHub watchers](https://img.shields.io/github/watchers/danygsam/Read-data-from-firebase-realtime-database-for-micropython-in-esp8266?color=000000&style=for-the-badge)  ![GitHub User's stars](https://img.shields.io/github/stars/danygsam?color=000000&style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/danygsam/Read-data-from-firebase-realtime-database-for-micropython-in-esp8266?color=000000&style=for-the-badge)
 
-* Download the files and put it with the boot.py in MicroPython ESP8266
+* Download the **main.py**, **firebase.py**, **connection.py** files and put it with the boot.py in MicroPython ESP8266
 * Create a firebase project and open RealTimeDatabase
 * Click on create and just copy the link in the top of the box in that page
 * Paste it in the FirebaseURL in firebase.py
